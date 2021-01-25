@@ -1,0 +1,1 @@
+# megawesome-polybar
